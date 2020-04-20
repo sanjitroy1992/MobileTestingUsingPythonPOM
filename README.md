@@ -32,8 +32,8 @@ In order to conver a test to a unittest do the following steps.
 7. Add HTML Reports
 8. Command to execute the tests:
 Since our python modeles are under venv folder so we need to first set the PythonPath followed by running the test with the below command.
-set PYTHONPATH=./venv/Lib/site-packages;
-python TestCases\AmazonSearch.py -v
+- set PYTHONPATH=./venv/Lib/site-packages;
+- python TestCases\AmazonSearch.py -v
 
 
 PREREQUISITES
